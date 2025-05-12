@@ -40,6 +40,13 @@ Directories
 **Day3** | &nbsp; 
 9.00-12.00 | **Advanced exercise** [bio334_day3.ipynb](jupyter_notebooks/bio334_day3.ipynb)
 
+## Google Colab
+
+Note
+* You need a google account
+
+* [bio334_day1_part1.ipynb](https://colab.research.google.com/github/masaomi/bio334_2025/blob/main/jupyter_notebooks/bio334_day1_part1.ipynb)
+
 ## Exercises
 
 Coming soon...
