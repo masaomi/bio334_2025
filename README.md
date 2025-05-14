@@ -53,7 +53,7 @@ Note
 
 ## Exercises
 
-Coming soon...
+- Day1 Part1: https://gist.github.com/masaomi/75ac75aa49d3603697e24864b2345d4d
 
 ## Recommended Python Learning Resources (2025)
 
