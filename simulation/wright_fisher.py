@@ -1,5 +1,23 @@
 #!/usr/bin/env python
 
+import sys
+import shutil
+import os
+
+def copy_matching_pyc():
+    version_tag = f"{sys.version_info.major}{sys.version_info.minor}"  # 例えば 311
+    base_dir = os.path.dirname(__file__)
+    cache_dir = os.path.join(base_dir, "__pycache__")
+    pyc_filename = f"exercise_module.cpython-{version_tag}.pyc"
+    pyc_path = os.path.join(cache_dir, pyc_filename)
+    if os.path.exists(pyc_path):
+        shutil.copy(pyc_path, os.path.join(base_dir, "exercise_module.pyc"))
+        print(f"# Copied: {pyc_filename} -> exercise_module.pyc")
+    else:
+        print(f"# Error: matching .pyc file not found for Python {version_tag}")
+
+copy_matching_pyc()
+
 import random
 import exercise_module
 
