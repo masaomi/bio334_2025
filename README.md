@@ -49,6 +49,7 @@ Note
 * [bio334_day1_part2.ipynb](https://colab.research.google.com/github/masaomi/bio334_2025/blob/main/jupyter_notebooks/bio334_day1_part1.ipynb)
 * [bio334_day1_part3.ipynb](https://colab.research.google.com/github/masaomi/bio334_2025/blob/main/jupyter_notebooks/bio334_day1_part1.ipynb)
 * [bio334_day2_part1.ipynb](https://colab.research.google.com/github/masaomi/bio334_2025/blob/main/jupyter_notebooks/bio334_day2_part1.ipynb)
+* [bio334_day2_part2.ipynb](https://colab.research.google.com/github/masaomi/bio334_2025/blob/main/jupyter_notebooks/bio334_day2_part2.ipynb)
 
 ## PDF
 
@@ -56,6 +57,7 @@ Note
 * [bio334_day1_part2.pdf](https://github.com/masaomi/bio334_2025/blob/main/pdf/bio334_day1_part2.pdf)
 * [bio334_day1_part3.pdf](https://github.com/masaomi/bio334_2025/blob/main/pdf/bio334_day1_part3.pdf)
 * [bio334_day2_part1.pdf](https://github.com/masaomi/bio334_2025/blob/main/pdf/bio334_day2_part1.pdf)
+* [bio334_day2_part2.pdf](https://github.com/masaomi/bio334_2025/blob/main/pdf/bio334_day2_part2.pdf)
 
 ## Exercises
 
