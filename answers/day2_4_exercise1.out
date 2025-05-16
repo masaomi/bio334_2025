@@ -1,0 +1,11 @@
+Total differences = 336408
+nC2 = 499500.0
+Lenght of sequence = 10
+Nucleotide diversity pi = 0.06734894894894895
+Pair-wise difference PI = 0.6734894894894895
+Number of SNP sites (total segregating sites) S = 2
+Frequency of SNP sites s = S/sequence_length = 0.2
+sum_{i=1}^{n-1}(1/i) = 7.484470860550343
+estimated pi = s/sum(1/i) = 0.02672199594685759
+d = pi - estimated_pi = 0.04062695300209136
+Tajima's D= 1.6921137265021378

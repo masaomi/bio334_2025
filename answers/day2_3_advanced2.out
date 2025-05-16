@@ -1,0 +1,11 @@
+['G']	not segregating
+['A']	not segregating
+['A']	not segregating
+['G']	not segregating
+['A']	not segregating
+['C', 'T']	segregating, MAF= 0.214
+['T']	not segregating
+['A', 'T']	segregating, MAF= 0.214
+['G']	not segregating
+['T']	not segregating
+Total segregating sites = 2
